@@ -1,0 +1,2 @@
+BotTweetID,UserTweetID,BotTweetDate,UserTweetDate,UserScreenName,FakeProb,DodgyProb,MostlyTrueProb,TrueProb
+1234567890123456789,0987654321098765432,"2020-4-26","2020-4-25","example",.05,.25,.6,.1
